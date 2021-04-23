@@ -1,1 +1,1 @@
-# Project
+# Coursera Courses Database
